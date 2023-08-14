@@ -24,7 +24,7 @@ A simple EEPROM monitor that allows reading and writing to a 24LC64 I2C EEPROM v
 STM32F103 (Blue Pill) routines and sample program to drive a 16x2 LCD with an I2C driver .
 
 ## 16x2 LCD Libraries and Projects
-+ [STM32F103-CMSIS-LCD](https://github.com/sandynomike/STM32F103-CMSIS-LCD)<br>
++ [STM32F103-CMSIS-LCD-lib](https://github.com/sandynomike/STM32F103-CMSIS-LCD-lib)<br>
 Sample project to control a 16x2 LCD module using an STM32F103 / Blue Pill. Does not use the I2C LCD driver module.
 + [STM32F103-CMSIS-I2C-LCD-lib](https://github.com/sandynomike/STM32F103-CMSIS-I2C-LCD-lib)<br>
 STM32F103 (Blue Pill) routines and sample program to drive a 16x2 LCD with an I2C LCD driver module
