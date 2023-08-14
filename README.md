@@ -31,3 +31,10 @@ STM32F103 (Blue Pill) routines and sample program to drive a 16x2 LCD with an I2
 + [STM32F103-CMSIS-I2C-AHT10-lib](https://github.com/sandynomike/STM32F103-CMSIS-I2C-AHT10-lib)<br>
 AHT10 library and sample project to read temp and humidity and disiplay them along with "heat index" on an I2C driven 16x2 LCD.
 
+## ADC Example
++ [STM32F103-CMSIS-ADC-PWM-Example](https://github.com/sandynomike/STM32F103-CMSIS-ADC-PWM-Example)<br>
+Simple project to demostrate basic ADC and PWM functionality of STM32F103 (Blue Pill) using CMSIS
+
+## PWM Example
++ [STM32F103-CMSIS-ADC-PWM-Example](https://github.com/sandynomike/STM32F103-CMSIS-ADC-PWM-Example)<br>
+Simple project to demostrate basic ADC and PWM functionality of STM32F103 (Blue Pill) using CMSIS
