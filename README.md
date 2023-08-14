@@ -18,7 +18,7 @@ A simple EEPROM monitor that allows reading and writing to a 24LC64 I2C EEPROM v
 Basic I2C routines for the STM32F103 (Blue Pill) using only CMSIS. This is the library only. See below for sample I2C projects.
 + [STM32F103-CMSIS-I2C-AHT10-lib](https://github.com/sandynomike/STM32F103-CMSIS-I2C-AHT10-lib)<br>
 AHT10 library and sample project to read temp and humidity and disiplay them along with "heat index" on an I2C driven 16x2 LCD.
-+ [https://github.com/sandynomike/STM32F103-CMSIS-I2C-EEPROM-lib](https://github.com/sandynomike/STM32F103-CMSIS-I2C-EEPROM-lib)<br>
++ [STM32F103-CMSIS-I2C-EEPROM-lib](https://github.com/sandynomike/STM32F103-CMSIS-I2C-EEPROM-lib)<br>
 A simple EEPROM monitor that allows reading and writing to a 24LC64 I2C EEPROM via a serial terminal.
 + [STM32F103-CMSIS-I2C-LCD-lib](https://github.com/sandynomike/STM32F103-CMSIS-I2C-LCD-lib)<br>
 STM32F103 (Blue Pill) routines and sample program to drive a 16x2 LCD with an I2C driver .
