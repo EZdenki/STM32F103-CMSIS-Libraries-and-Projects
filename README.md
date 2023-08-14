@@ -1,5 +1,5 @@
 ## STM32F103 (Blue Pill) CMSIS Libraries and Projects
-Here you will find basic libraries and simple project to help you get started in programming the STM32F103 (Blue Pill).<br>
+Here you will find basic libraries and simple project to help you get started in programming the STM32F103 (Blue Pill) using only CMSIS -- no HAL or STM32CubeIDE, etc.<br>
 
 ## Getting Started
 + [STM32F103-CMSIS-Setup](https://github.com/sandynomike/STM32F103-CMSIS-Setup)<br>
