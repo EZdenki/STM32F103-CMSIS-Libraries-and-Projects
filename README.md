@@ -33,7 +33,7 @@ AHT10 library and sample project to read temp and humidity and disiplay them alo
 
 ## ADC Example
 + [STM32F103-CMSIS-ADC-PWM-Example](https://github.com/sandynomike/STM32F103-CMSIS-ADC-PWM-Example)<br>
-Simple project to demostrate basic ADC and PWM functionality of STM32F103 (Blue Pill) using CMSIS
+Simple project to demostrate basic ADC and PWM functionality of STM32F103 (Blue Pill) using CMSIS.
 
 ## 1-Wire Library and DS18B20 Sensor Project
 + [STM32F103-CMSIS-1-Wire-lib](https://github.com/sandynomike/STM32F103-CMSIS-1-Wire-lib)<br>
@@ -41,4 +41,4 @@ Simple 1-Wire library that includes a sample project that reads a DS18B20 temper
 
 ## PWM Example
 + [STM32F103-CMSIS-ADC-PWM-Example](https://github.com/sandynomike/STM32F103-CMSIS-ADC-PWM-Example)<br>
-Simple project to demostrate basic ADC and PWM functionality of STM32F103 (Blue Pill) using CMSIS
+Simple project to demostrate basic ADC and PWM functionality of STM32F103 (Blue Pill) using CMSIS.
