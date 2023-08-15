@@ -37,7 +37,7 @@ Simple project to demostrate basic ADC and PWM functionality of STM32F103 (Blue 
 
 ## 1-Wire Library and DS18B20 Sensor Project
 + [STM32F103-CMSIS-1-Wire-lib](https://github.com/sandynomike/STM32F103-CMSIS-1-Wire-lib)<br>
-Simple 1-Wire library and a sample project to that reads a DS18B20 temperature sensor and displays the temperature on an I2C-driven 16x2 LCD module.
+Simple 1-Wire library that includes a sample project that reads a DS18B20 temperature sensor and displays the temperature on an I2C-driven 16x2 LCD module.
 
 ## PWM Example
 + [STM32F103-CMSIS-ADC-PWM-Example](https://github.com/sandynomike/STM32F103-CMSIS-ADC-PWM-Example)<br>
