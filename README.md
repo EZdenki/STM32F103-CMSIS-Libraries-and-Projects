@@ -42,3 +42,7 @@ Simple 1-Wire library that includes a sample project that reads a DS18B20 temper
 ## PWM Example
 + [STM32F103-CMSIS-ADC-PWM-Example](https://github.com/sandynomike/STM32F103-CMSIS-ADC-PWM-Example)<br>
 Simple project to demostrate basic ADC and PWM functionality of STM32F103 (Blue Pill) using CMSIS.
+
+## Miscellaneous
++ [STM32F103-Delay-lib](https://github.com/sandynomike/STM32F103-Delay-lib)<br>
+Microsecond delay and halt routines for STM32F103 running at 8 MHz.
